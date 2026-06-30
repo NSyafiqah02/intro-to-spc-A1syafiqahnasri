@@ -59,6 +59,7 @@ hash: true
   });
 </script>
 
+
 :::
 
 ::: {.column width="50%"}
@@ -188,7 +189,6 @@ Similar to Machine 1, this $ar{X}$ chart for Machine 2 (under the same conditio
 ::::
 
 ---
-
 ---
 # Bibliography
 <div id="refs"></div>
